@@ -1,1 +1,0 @@
-FROM gabrielpcruz/aap:php73
